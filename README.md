@@ -4,4 +4,6 @@
  REGISTRATION FORM - https://dmitrijlosev.github.io/freeCodeCamp/Registration%20form/Registration_form.html <br />
  COLOR MARKERS - https://dmitrijlosev.github.io/freeCodeCamp/Color%20markers/Color_Markers.html <br />
  COFFEE MENUS - https://dmitrijlosev.github.io/freeCodeCamp/Cofee%20menus/Coffee%20menus.html <br />
+ CATS FOTO GALLERY - https://dmitrijlosev.github.io/freeCodeCamp/cat_foto_gallery/cat_foto_gallery.html <br />
+ 
 
