@@ -7,6 +7,8 @@
  CATS FOTO GALLERY - https://dmitrijlosev.github.io/freeCodeCamp/cat_foto_gallery/cat_foto_gallery.html <br />
  NUTRITION FACT - https://dmitrijlosev.github.io/freeCodeCamp/nutrition_fact/nutrition_fact.html <br />
  QUIZ - https://dmitrijlosev.github.io/freeCodeCamp/quiz/quiz.html <br />
+ ROTHKO PAINTING - https://dmitrijlosev.github.io/freeCodeCamp/rothko_painting/rothko_painting.html <br />
+ TRIBUTE PAGE - https://dmitrijlosev.github.io/freeCodeCamp/tribute_page/tribute_page.html <br />
  
  
  
