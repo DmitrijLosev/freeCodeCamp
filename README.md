@@ -9,6 +9,7 @@
  QUIZ - https://dmitrijlosev.github.io/freeCodeCamp/quiz/quiz.html <br />
  ROTHKO PAINTING - https://dmitrijlosev.github.io/freeCodeCamp/rothko_painting/rothko_painting.html <br />
  TRIBUTE PAGE - https://dmitrijlosev.github.io/freeCodeCamp/tribute_page/tribute_page.html <br />
+ BALANCE SHEET - https://dmitrijlosev.github.io/freeCodeCamp/balance_sheet/balance_sheet.html <br />
  
  
  
