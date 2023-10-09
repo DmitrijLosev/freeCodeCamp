@@ -12,6 +12,7 @@
  BALANCE SHEET - https://dmitrijlosev.github.io/freeCodeCamp/balance_sheet/balance_sheet.html <br />
  CAT PAINTING - https://dmitrijlosev.github.io/freeCodeCamp/cat_painting/cat-painting.html <br />
  PIANO - https://dmitrijlosev.github.io/freeCodeCamp/piano/piano.html <br />
+ TECHNICAL DOCUMENTATION- https://dmitrijlosev.github.io/freeCodeCamp/technical_documentation/technical_documentation.html <br />
  
  
  
